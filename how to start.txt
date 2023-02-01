@@ -1,0 +1,9 @@
+(start)
+1. Open esp-idf terminal
+2. ketik "idf.py create-project -p . <name>"
+3. enter
+
+
+(configure project)
+1. Open esp-idf terminal
+2. type start idf.py menuconfig

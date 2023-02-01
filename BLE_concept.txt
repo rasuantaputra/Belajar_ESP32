@@ -1,0 +1,30 @@
+Generic Attributes (GATT) = it defines an hierarchical data structure that is exposed to connected BLE devices.
+
+-(BLE Service)-
+* Profile = which is composed of one or more services
+* Services = is simply a collection of information (Every service contains at least one characteristic, like sensor readings, for example)
+
+-(BLE Characteristic)-
+* The characteristic is always owned by a service, and it is where the actual data is contained in the hierarchy (value)
+* The characteristic always has two attributes:
+	- characteristic declaration (that provides metadata about the data)
+	- characteristic value (the characteristic value can be followed by descriptors, which further expand on the metadata contained in the characteristic declaration.)
+* Properties = describe how the characteristic value can be interacted with .Basically, it contains the operations and procedures that can be used with the characteristic:
+	- Broadcast
+	- Read
+	- Write without response
+	- Write
+	- Notify
+	- Indicate
+	- Authenticated Signed Writes
+	- Extended Properties
+* UUID = is a unique 128-bit (16 bytes) number (Each service, characteristic and descriptor have an UUID (Universally Unique Identifier))
+		 In summary, the UUID is used for uniquely identifying information. For example, it can identify a particular service provided by a Bluetooth device.
+
+-(Pseudo For creating a BLE server)-
+1. Create a BLE Server. In this case, the ESP32 acts as a BLE server.
+2. Create a BLE Service.
+3. Create a BLE Characteristic on the Service.
+4. Create a BLE Descriptor on the Characteristic.
+5. Start the Service.
+6. Start advertising, so it can be found by other devices.

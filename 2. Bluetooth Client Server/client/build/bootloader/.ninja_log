@@ -1,0 +1,154 @@
+# ninja log v5
+7	136	6937251151109876	project_elf_src_esp32.c	d225f245943fa77c
+7	136	6937251151109876	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/project_elf_src_esp32.c	d225f245943fa77c
+29	445	6937251154674306	esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj	9485645e43498ae5
+36	475	6937251154962070	esp-idf/soc/CMakeFiles/__idf_soc.dir/soc_include_legacy_warn.c.obj	4ec77643131a0602
+22	494	6937251154991991	esp-idf/hal/CMakeFiles/__idf_hal.dir/mpu_hal.c.obj	3e92dfceee275045
+17	516	6937251155141589	esp-idf/hal/CMakeFiles/__idf_hal.dir/cpu_hal.c.obj	cb311182bf32a09d
+43	538	6937251155251576	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/i2c_periph.c.obj	a00847aecbee95c6
+65	556	6937251155341051	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/adc_periph.c.obj	86bcc712129c2c9a
+53	601	6937251155370980	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/interrupts.c.obj	26ac1e283234a3d0
+137	626	6937251155586800	CMakeFiles/bootloader.elf.dir/project_elf_src_esp32.c.obj	9932e310afd14e32
+11	647	6937251155727236	esp-idf/hal/CMakeFiles/__idf_hal.dir/wdt_hal_iram.c.obj	7c7537c74808b0ae
+78	661	6937251155762425	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/gpio_periph.c.obj	7aa407fb8aa05032
+447	744	6937251157738323	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/i2s_periph.c.obj	57b018d440183fa3
+497	808	6937251158205652	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/lcd_periph.c.obj	cd0905d0176596d7
+477	818	6937251158036011	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/dac_periph.c.obj	88043abb98747357
+519	879	6937251158315954	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/pcnt_periph.c.obj	f16b339f272450b1
+558	897	6937251159270592	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/rmt_periph.c.obj	a4feda97e3b6da80
+539	922	6937251159470065	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/rtc_io_periph.c.obj	3a818866538f7df
+627	993	6937251160287866	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/ledc_periph.c.obj	9f0fc23ad6af583b
+608	1021	6937251160178163	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sdio_slave_periph.c.obj	ec58edc3f336991c
+662	1063	6937251160537199	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/uart_periph.c.obj	f75c5067fadc931d
+648	1150	6937251160933381	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/mcpwm_periph.c.obj	4c12625111da0ca7
+746	1198	6937251161681779	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/spi_periph.c.obj	ab678ee56898fca3
+810	1254	6937251162050766	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sigmadelta_periph.c.obj	fd8e7b7a33e1ebff
+881	1302	6937251162564091	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/timer_periph.c.obj	869fba599c282e7a
+820	1385	6937251162689853	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sdmmc_periph.c.obj	506a6fa072d17b79
+899	1436	6937251163286393	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/touch_sensor_periph.c.obj	17ee848a963b2851
+1022	1719	6937251166602014	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random_esp32.c.obj	cf16b2241ef88af3
+1064	1856	6937251168460225	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj	7619d7a4c0f7d710
+994	1938	6937251169344364	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_flash.c.obj	7cc40908a7ca9262
+1152	2033	6937251169673480	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_mem.c.obj	754c291238df609a
+1199	2079	6937251170571474	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/esp32/spi_flash_rom_patch.c.obj	d0736dc513b1f150
+1304	2097	6937251171021877	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_init.c.obj	dc69f3534f410262
+1255	2154	6937251171923613	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj	3c5f4e72c7def213
+1386	2225	6937251172387385	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common_loader.c.obj	75ae5bcf085c271
+1720	2274	6937251172800302	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/secure_boot.c.obj	4199e4865a0242fb
+923	2345	6937251173646342	esp-idf/micro-ecc/CMakeFiles/__idf_micro-ecc.dir/uECC_verify_antifault.c.obj	26e4b6c330978b7d
+1438	2422	6937251174558326	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_utility.c.obj	3aeac28ef978335f
+1939	2512	6937251175517797	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_encrypt.c.obj	e34ed98a2a726cd2
+2035	2596	6937251176135156	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_partitions.c.obj	3de3fa37691d389
+2081	2621	6937251176573963	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_efuse_esp32.c.obj	7f9a5e2e7f10adc1
+2439	2687	6937251177062652	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console_loader.c.obj	5f01258d2bc7c57e
+2227	2734	6937251177571319	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_qio_mode.c.obj	e16e0d548613672b
+2514	2758	6937251177770828	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32/bootloader_soc.c.obj	e49b73ed4e0281cf
+2275	2777	6937251177940315	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_loader.c.obj	4e29a6fba703710f
+2099	2788	6937251177910393	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_init.c.obj	43ab1e0cd62a2c7a
+1857	2847	6937251178798416	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp_image_format.c.obj	db80da27d91699de
+2156	2897	6937251179024130	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_flash_config_esp32.c.obj	5f7edc90960bf42c
+2347	2949	6937251179675060	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj	dd2f0ce62d64b8a5
+2623	3088	6937251181313156	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_panic.c.obj	bb55741b71cfb4ab
+2779	3166	6937251181763713	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_table.c.obj	b410cb4d2cf4a9f
+2598	3179	6937251181957884	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console.c.obj	7a82f5b131d8cee3
+2688	3218	6937251181693373	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32/bootloader_sha.c.obj	a84f3076700d69c0
+2759	3248	6937251182374937	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_fields.c.obj	7b4f0709a8b25b58
+2790	3405	6937251184455355	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_utility.c.obj	97bb26b8f1181e58
+2848	3451	6937251184355625	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api_key_esp32.c.obj	ff203a2467ae7e86
+2898	3481	6937251184604954	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj	d02ab0eabcfd8b7f
+2735	3492	6937251185218269	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32/bootloader_esp32.c.obj	63ab1248407a1ba4
+3089	3505	6937251185082580	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_err.c.obj	94a9ac0e1846e87f
+2951	3580	6937251186111835	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj	19271cb7eb3e9d81
+3249	3702	6937251187145880	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/compare_set.c.obj	1888be8ca53bc9c3
+3181	3739	6937251187703172	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu_util.c.obj	ecc452afbaa0e6fc
+3167	3753	6937251187703172	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_clk_init.c.obj	bb7b68f1986890f2
+3452	3871	6937251189077985	esp-idf/log/CMakeFiles/__idf_log.dir/log_noos.c.obj	6e3b99117972b46a
+3407	3925	6937251189541676	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_time.c.obj	32a33a03481ad06c
+3755	3963	6937251190019277	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_longjmp.S.obj	e13bafb65c395acd
+3506	4035	6937251190418216	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_pm.c.obj	81d971f1dab5c79a
+3483	4050	6937251190847077	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_sleep.c.obj	67de6b6972b0f5e2
+3494	4079	6937251191106367	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_init.c.obj	802d50a4692a5cf4
+3582	4111	6937251191355700	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_wdt.c.obj	ea977262810e29c5
+3220	4146	6937251191465405	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_clk.c.obj	ca3cd4eedf033ed6
+3872	4160	6937251191884286	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/eri.c.obj	464e55114d3d98e3
+4051	4237	6937251192771912	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_crc.c.obj	47f85fa3e3198611
+3740	4251	6937251192781891	esp-idf/log/CMakeFiles/__idf_log.dir/log.c.obj	171626f9d6715934
+3703	4264	6937251193001293	esp-idf/log/CMakeFiles/__idf_log.dir/log_buffers.c.obj	cd5a82fb10b5832
+3964	4287	6937251193200760	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xt_trax.c.obj	1b46256fdc3355a1
+4081	4306	6937251193421845	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_sys.c.obj	8759c761fef8b7a4
+4147	4313	6937251193558097	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_tjpgd.c.obj	752f965b4fcdfdbb
+3927	4337	6937251193798678	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/chip_info.c.obj	b937bfea9546970f
+4112	4369	6937251194119990	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_efuse.c.obj	a7e16cc8c4142a7
+4161	4424	6937251194682279	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_uart.c.obj	431dd2b169bff5a8
+4037	4434	6937251194762872	esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj	316aeb3e72fefa13
+4265	4436	6937251194794885	esp-idf/log/liblog.a	e92516a466c7cbc5
+4238	4503	6937251195492652	esp-idf/main/CMakeFiles/__idf_main.dir/bootloader_start.c.obj	8ba0e44236122b69
+4436	4520	6937251195674628	esp-idf/esp_rom/libesp_rom.a	96db42f9708b4ab0
+4521	4595	6937251196422634	esp-idf/esp_common/libesp_common.a	6be5f5099618b1bf
+4596	4669	6937251197160662	esp-idf/xtensa/libxtensa.a	4873b5255f7d1673
+4670	4746	6937251197920108	esp-idf/esp_hw_support/libesp_hw_support.a	8578afb1a8d84379
+4747	4810	6937251198588819	esp-idf/esp_system/libesp_system.a	764c9f7a96c790a1
+4811	4878	6937251199259738	esp-idf/efuse/libefuse.a	9e056216f7a436e
+4878	4979	6937251200270268	esp-idf/bootloader_support/libbootloader_support.a	81e8a7aa6c738d51
+4980	5048	6937251200928529	esp-idf/spi_flash/libspi_flash.a	7dd2d041362dbeb2
+5048	5142	6937251201866009	esp-idf/micro-ecc/libmicro-ecc.a	77e3945dbfafcb5f
+5142	5258	6937251203042925	esp-idf/soc/libsoc.a	657789091bceb011
+5258	5347	6937251203950421	esp-idf/hal/libhal.a	cf9806cdd6d382a0
+5348	5430	6937251204768235	esp-idf/main/libmain.a	3010ce11f276249e
+5431	5691	6937251207324336	bootloader.elf	c6cf7c2bbfbb4ffe
+5691	5923	6937251209724788	.bin_timestamp	96b7d2d4fdaa6227
+5691	5923	6937251209724788	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/.bin_timestamp	96b7d2d4fdaa6227
+5924	6022	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+5924	6022	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	85	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	85	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+7	87	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+7	87	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	88	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	88	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+7	88	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+7	88	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+20	134	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+20	134	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	85	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	85	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+7	87	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+7	87	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+7	86	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+7	86	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+21	110	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+21	110	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	97	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	97	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	98	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	98	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+9	97	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+9	97	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+9	86	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+9	86	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+7	100	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+7	100	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+19	133	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+19	133	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+16	105	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+16	105	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+12	98	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+12	98	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	87	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	87	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	91	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	91	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	89	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	89	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	89	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	89	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	89	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	89	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+16	108	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+16	108	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	93	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	93	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+19	103	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+19	103	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	92	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1
+8	92	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/2. Bluetooth Client Server/client/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	15d7efee8a7803a1

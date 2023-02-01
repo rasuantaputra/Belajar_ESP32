@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Espressif/**",
+                "C:/Espressif/frameworks/esp-idf-v4.4.3/components/bt/host/nimble/nimble/nimble/host/include",
+                "C:/Espressif/frameworks/esp-idf-v4.4.3/components/bt/host/nimble/nimble/nimble/host/services/gap/include",
+                "C:/Espressif/frameworks/esp-idf-v4.4.3/components/freertos/include",
+                "C:/Espressif/tools/riscv32-esp-elf/esp-2021r2-patch5-8.4.0/riscv32-esp-elf/riscv32-esp-elf/include/c++/8.4.0",
+                "C:/Espressif/frameworks/esp-idf-v4.4.3/components/bt/host/nimble/nimble/nimble/include",
+                "C:/Espressif/frameworks/esp-idf-v4.4.3/examples/bluetooth/nimble/ble_spp/spp_client/main",
+                "C:/Espressif/frameworks/esp-idf-v4.4.3/examples/bluetooth/nimble/ble_spp/spp_client"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Program Files\\mingw64\\bin\\gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}

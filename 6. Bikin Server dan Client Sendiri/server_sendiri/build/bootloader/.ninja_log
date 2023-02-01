@@ -1,0 +1,301 @@
+# ninja log v5
+2112	2429	6944365364366708	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32/bootloader_sha.c.obj	39681c6a7cafa85c
+49	351	6944365343239082	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/i2c_periph.c.obj	b2b64b3ee5f138c9
+4	73	6944365340597616	project_elf_src_esp32.c	c249f45af725f0bf
+4	73	6944365340597616	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/project_elf_src_esp32.c	c249f45af725f0bf
+325	630	6944365345911399	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/i2s_periph.c.obj	57cb4f7b23bce9a5
+338	641	6944365346050879	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/lcd_periph.c.obj	7a72e54ceb6f3c67
+20	260	6944365342521966	esp-idf/soc/CMakeFiles/__idf_soc.dir/soc_include_legacy_warn.c.obj	f6ddbff5343f3e8b
+2180	2470	6944365364652355	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_err.c.obj	8a73fc327b9d4cf7
+1400	1847	6944365358048153	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_encrypt.c.obj	c673c97df29fee25
+25	322	6944365343150211	esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj	95de50e0aa87742c
+631	948	6944365349360513	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/timer_periph.c.obj	cc68c3389686e945
+37	336	6944365343209161	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/dac_periph.c.obj	e1eda38bfc57c62d
+12	361	6944365343279014	esp-idf/hal/CMakeFiles/__idf_hal.dir/mpu_hal.c.obj	edb7112e84214501
+1326	2038	6944365360094515	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp_image_format.c.obj	1bedc1674b2634fe
+31	370	6944365343327625	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/gpio_periph.c.obj	f966db219967acd7
+75	392	6944365343433353	CMakeFiles/bootloader.elf.dir/project_elf_src_esp32.c.obj	13a58dbc5935a8d7
+2013	2356	6944365363566782	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_panic.c.obj	e09d85cf477a2760
+44	401	6944365343498305	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/interrupts.c.obj	d939ae98fd0db121
+15	442	6944365343612122	esp-idf/hal/CMakeFiles/__idf_hal.dir/cpu_hal.c.obj	e247538f4647ad5d
+8	495	6944365343880568	esp-idf/hal/CMakeFiles/__idf_hal.dir/wdt_hal_iram.c.obj	6d9423fd7f4799d2
+1660	2162	6944365361535957	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj	bba3a03319973c44
+352	585	6944365345799691	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/pcnt_periph.c.obj	45b743540e6ea3d2
+1045	1659	6944365356347065	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/secure_boot.c.obj	590b711c6cec966c
+262	599	6944365345819643	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/adc_periph.c.obj	f48ef7a38d0eded1
+699	1173	6944365351422225	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj	20391f6265df31d8
+374	661	6944365346214123	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/rmt_periph.c.obj	e104216adc6b04ad
+2223	2731	6944365367338844	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj	73dba2de74c8ad7b
+793	1516	6944365354916479	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj	b24c5bfa73794429
+363	679	6944365346478885	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sdio_slave_periph.c.obj	e46c7b031aab2b29
+2204	2581	6944365365721626	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api_key_esp32.c.obj	a4b731b32865241b
+393	699	6944365346585972	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/rtc_io_periph.c.obj	d7e60cf2032fc925
+408	709	6944365346858335	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/ledc_periph.c.obj	ac8274c387293831
+443	733	6944365347169748	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/mcpwm_periph.c.obj	db931d55f8b9f93
+497	740	6944365347323041	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/uart_periph.c.obj	d891209483b90015
+586	792	6944365347741569	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sigmadelta_periph.c.obj	9e79f4df1181d32f
+1922	2375	6944365363732430	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_utility.c.obj	b0d23959c506287a
+662	978	6944365349687089	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/touch_sensor_periph.c.obj	7204b1235f288650
+601	993	6944365349720777	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sdmmc_periph.c.obj	700df4ea01342086
+2163	2744	6944365367458653	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32/bootloader_esp32.c.obj	33222c480c8f11a0
+642	1044	6944365350288051	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/spi_periph.c.obj	e035c5e35f96adeb
+2431	2908	6944365368929514	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu_util.c.obj	af06b7dbe9e266f9
+734	1334	6944365351402274	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_mem.c.obj	2c6badcb943271ac
+741	1399	6944365353869162	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random_esp32.c.obj	af689aa35ddcc7d6
+1470	1920	6944365359123455	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_partitions.c.obj	c9f821413d88cc2e
+1950	2293	6944365362938370	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_fields.c.obj	28a94be3b1f2818b
+2909	3185	6944365371946405	esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj	e40d040a7c5013df
+979	1413	6944365354100768	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_init.c.obj	37074d7be4751a43
+714	1469	6944365354274978	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_flash.c.obj	2c79cc76d08588c6
+994	1560	6944365355461227	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common_loader.c.obj	72c6613e9dcccd8
+949	1585	6944365355901657	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/esp32/spi_flash_rom_patch.c.obj	b9c96b7ac95a80e0
+1414	1934	6944365359327031	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_qio_mode.c.obj	9e13ac61e262b28a
+680	1949	6944365359474573	esp-idf/micro-ecc/CMakeFiles/__idf_micro-ecc.dir/uECC_verify_antifault.c.obj	1cd646febdeb85ff
+1335	2073	6944365360534901	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_utility.c.obj	4e483653e2611ca6
+1561	1984	6944365359611227	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_efuse_esp32.c.obj	b95609fb42fc3dc1
+1518	2011	6944365359849110	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_flash_config_esp32.c.obj	661cc8792b82611
+1848	2179	6944365361788153	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_loader.c.obj	24fc6eed6cc9629e
+1586	2111	6944365361096259	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_init.c.obj	55ca9d3f3b03246f
+1985	2202	6944365361703708	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32/bootloader_soc.c.obj	db778a8f4cbecde6
+2039	2222	6944365362177715	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console_loader.c.obj	261a31733ab92170
+2240	2610	6944365365867018	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj	14647450e5b9833a
+1935	2239	6944365362266451	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_table.c.obj	b9653359422c0697
+2294	2630	6944365366071214	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/compare_set.c.obj	737d14506a37bfc0
+2074	2505	6944365364443432	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console.c.obj	9707a9a9d20932c1
+2471	2862	6944365367977462	esp-idf/log/CMakeFiles/__idf_log.dir/log_noos.c.obj	9c73dfbf94386587
+2376	2893	6944365367994661	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_clk_init.c.obj	958b310480e06bf4
+2506	2919	6944365368993417	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_time.c.obj	ad6c9307066c2939
+2582	2945	6944365369406579	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_pm.c.obj	757aaecbf8ac7755
+2631	2963	6944365369642180	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_init.c.obj	b7afad23a9b1133
+2358	3012	6944365370117477	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_clk.c.obj	bc2b5433b5969fda
+2863	3039	6944365370311452	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/eri.c.obj	d33b7da7b72bdecf
+2611	3047	6944365370394976	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_sleep.c.obj	42b6c1df4b65b8d
+2920	3062	6944365370478675	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_crc.c.obj	15bcdfd205a83c26
+2745	3071	6944365370767555	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/chip_info.c.obj	792fcd8ab5b9c9c1
+2946	3082	6944365370825311	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_sys.c.obj	9a59be57dcf74455
+2895	3112	6944365371193349	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xt_trax.c.obj	d1d26e3840ed8693
+3670	3743	6944365377534960	esp-idf/bootloader_support/libbootloader_support.a	81e8a7aa6c738d51
+2732	3118	6944365371221955	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_wdt.c.obj	ab62dcf6aa034a6c
+3013	3138	6944365371451629	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_tjpgd.c.obj	beeef28fb5144326
+2964	3142	6944365371491518	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_efuse.c.obj	36f27223dcc01aff
+3048	3143	6944365371522801	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_longjmp.S.obj	62d306abccc363
+3040	3214	6944365372228638	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_uart.c.obj	afa9a6dae4b7b6df
+3083	3264	6944365372733858	esp-idf/main/CMakeFiles/__idf_main.dir/bootloader_start.c.obj	2f6992eafdc71ee
+3063	3271	6944365372817171	esp-idf/log/CMakeFiles/__idf_log.dir/log_buffers.c.obj	493b8f097bd85ddf
+3611	3669	6944365376782313	esp-idf/efuse/libefuse.a	9e056216f7a436e
+3072	3282	6944365372926868	esp-idf/log/CMakeFiles/__idf_log.dir/log.c.obj	c725b4b26a9f44f5
+3283	3338	6944365373481439	esp-idf/log/liblog.a	e92516a466c7cbc5
+3338	3391	6944365374011293	esp-idf/esp_rom/libesp_rom.a	96db42f9708b4ab0
+3392	3446	6944365374560033	esp-idf/esp_common/libesp_common.a	6be5f5099618b1bf
+3447	3497	6944365375080687	esp-idf/xtensa/libxtensa.a	4873b5255f7d1673
+3498	3556	6944365375657687	esp-idf/esp_hw_support/libesp_hw_support.a	8578afb1a8d84379
+3557	3610	6944365376201129	esp-idf/esp_system/libesp_system.a	764c9f7a96c790a1
+3745	3798	6944365378080373	esp-idf/spi_flash/libspi_flash.a	7dd2d041362dbeb2
+3800	3856	6944365378657972	esp-idf/micro-ecc/libmicro-ecc.a	77e3945dbfafcb5f
+3857	3926	6944365379358767	esp-idf/soc/libsoc.a	657789091bceb011
+3928	3987	6944365379972665	esp-idf/hal/libhal.a	cf9806cdd6d382a0
+3988	4045	6944365380548302	esp-idf/main/libmain.a	3010ce11f276249e
+4046	4243	6944365382470380	bootloader.elf	a201cc05682d2e4
+4244	4471	6944365384789853	.bin_timestamp	982d6a9ff7157d37
+4244	4471	6944365384789853	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/.bin_timestamp	982d6a9ff7157d37
+9	141	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	141	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+12	171	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+12	171	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	112	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	112	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	117	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	117	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	101	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	101	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+26	134	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+26	134	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+11	130	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+11	130	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+16	112	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+16	112	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	107	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	107	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	104	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	104	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+10	96	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+10	96	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+18	116	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+18	116	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	90	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	90	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+10	94	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+10	94	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+12	99	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+12	99	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	94	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	94	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	96	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	96	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+42	543	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+42	543	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+17	670	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+17	670	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+20	423	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+20	423	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	86	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	86	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+18	118	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+18	118	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+16	98	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+16	98	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	93	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	93	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+<<<<<<< HEAD
+8	90	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	90	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	92	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	92	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+=======
+8	89	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	89	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	99	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	99	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	98	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	98	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+7	96	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+7	96	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	112	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	112	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	90	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	90	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+7	91	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+7	91	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+7	96	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+7	96	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+22	98	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+22	98	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	94	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	94	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+23	109	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+23	109	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	88	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	88	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	93	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	93	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	92	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	92	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	92	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	92	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	96	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	96	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	95	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	95	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	90	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	90	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	108	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	108	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+11	112	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+11	112	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+10	121	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+10	121	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+10	116	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+10	116	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	102	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	102	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	101	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	101	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	108	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	108	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+18	196	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+18	196	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+18	172	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+18	172	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+12	158	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+12	158	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+18	188	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+18	188	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+10	109	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+10	109	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	100	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	100	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+14	148	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+14	148	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+12	118	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+12	118	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	116	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	116	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	90	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	90	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	102	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	102	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+7	86	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+7	86	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+7	96	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+7	96	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+11	108	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+11	108	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+20	150	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+20	150	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	94	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	94	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	91	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	91	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	98	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	98	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	98	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	98	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	90	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	90	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+28	160	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+28	160	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	129	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	129	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+42	232	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+42	232	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+21	190	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+21	190	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+10	129	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+10	129	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	121	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	121	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	105	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	105	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+>>>>>>> coba_ganti_uuid
+11	126	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+11	126	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	134	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	134	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	104	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	104	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	106	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	106	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	111	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	111	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	119	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	119	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	106	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	106	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	121	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	121	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	89	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	89	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	96	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	96	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	90	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	90	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+10	111	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+10	111	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	107	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+9	107	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+10	132	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+10	132	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+17	204	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+17	204	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+12	104	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+12	104	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+24	130	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+24	130	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+19	100	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+19	100	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+12	99	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+12	99	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	93	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+8	93	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+7	101	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
+7	101	0	C:/Users/rasua/Documents/PUTRA/Belajar/Belajar_ESP32/6. Bikin Server dan Client Sendiri/server_sendiri/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bd66971731f4d29d
